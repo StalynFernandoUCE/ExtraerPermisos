@@ -1,0 +1,114 @@
+    1  ifconfig
+    2  ipconfig
+    3  ls -ls
+    4  clear
+    5  sudo apt update
+    6  sudo apt upgrade
+    7  sudo apt install net-tools
+    8  ifconfig 
+    9  clear
+   10  cd Downloads/
+   11  ls
+   12  sudo chmod +x xampp-linux-x64-8.1.1-2-installer.run 
+   13  sudo ./xampp-linux-x64-7.3.10-1-installer.run
+   14  sudo ./xampp-linux-x64-8.1.1-2-installer.run 
+   15  pwd
+   16  ls
+   17  unzip Android-Permission-Extraction-and-Dataset-Creation-with-Python-master.zip 
+   18  cd Android-Permission-Extraction-and-Dataset-Creation-with-Python-master/
+   19  ls
+   20  clear
+   21  ls
+   22  cd Modules/
+   23  ls
+   24  cd jadx/
+   25  ls
+   26  cd bin/
+   27  ls
+   28  ls -la
+   29  chmod 777 jadx 
+   30  ls -la
+   31  cd ../../..
+   32  ls
+   33  python3 ExtractorAIO.py 
+   34  clear
+   35  java -version
+   36  ping 8.8.8
+   37  ping 8.8.8.8
+   38  sudo apt install software-properties-common
+   39  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys EA8CACC073C3DB2A
+   40  sudo add-apt-repository ppa:linuxuprising/java
+   41  sudo apt update
+   42  cd /var/cache/
+   43  ls
+   44  cd 
+   45  cd Downloads/
+   46  ls
+   47  ifconfig
+   48  scp Downloads/jdk-11.0.7_linux-x64_bin.tar.gz sammy@your_server_ip:~
+   49  sudo mkdir -p /var/cache/oracle-jdk11-installer-local/
+   50  ls
+   51  sudo cp jdk-11.0.12_linux-aarch64_bin.tar.gz /var/cache/oracle-jdk11-installer-local/
+   52  sudo apt install oracle-java11-installer-local
+   53  sudo update-alternatives --config java
+   54  sudo apt install oracle-java11-installer-local
+   55  sudo dpkg --configure -a
+   56  sudo apt-get install -f
+   57  sudo apt-get remove --purge package_name
+   58  sudo apt autoremove
+   59  sudo rm -rf /var/cache/oracle-jdk11-installer-local
+   60  sudo rm /var/lib/dpkg/info/oracle*
+   61  sudo apt purge oracle-java11-installer*
+   62  sudo rm /etc/apt/sources.list.d/*java*
+   63  sudo apt autoremove
+   64  clear
+   65  java -version
+   66  sudo apt install openjdk-11-jre-headless 
+   67  sudo apt-get update
+   68  sudo apt autoremove
+   69  sudo apt install openjdk-11-jre-headless
+   70  javac -v
+   71  java --verison
+   72  java --version
+   73  clar
+   74  clear
+   75  ls
+   76  rm Android-Permission-Extraction-and-Dataset-Creation-with-Python-master
+   77  rmdir Android-Permission-Extraction-and-Dataset-Creation-with-Python-master
+   78  rm -rfv Android-Permission-Extraction-and-Dataset-Creation-with-Python-master
+   79  ls
+   80  unzip Android-Permission-Extraction-and-Dataset-Creation-with-Python-master.zip 
+   81  clear
+   82  ls
+   83  cd Android-Permission-Extraction-and-Dataset-Creation-with-Python-master/
+   84  ls
+   85  python3 ExtractorAIO.py 
+   86  sudo apt install openjdk-11-jre
+   87  javac -version
+   88  clear
+   89  python3 ExtractorAIO.py 
+   90  cat data.csv 
+   91  clear
+   92  sudo snap install libreoffice
+   93  python3 ExtractorAIO.py 
+   94  ls
+   95  python3 ExtractorAIO.py 
+   96  cat data.csv 
+   97  clear
+   98  python3 ExtractorAIO.py 
+   99  cat data.csv 
+  100  clear
+  101  ls
+  102  cd Modules/
+  103  ls
+  104  cd jadx/
+  105  ls
+  106  cd bin/
+  107  ls
+  108  cat jadx 
+  109  sudo dmidecode --type memory | less
+  110  free
+  111  cat jadx 
+  112  nano jadx 
+  113  cat jadx 
+  114  history > history20220114.txt
